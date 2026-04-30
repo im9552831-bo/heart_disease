@@ -106,3 +106,7 @@ Heart Disease Detected
 
 
 ## 📂 Project Structure
+  project link
+https://heart-disease-1-rdt7.onrender.com
+<img width="911" height="868" alt="image" src="https://github.com/user-attachments/assets/7faac9cd-a70c-4dcd-a1d0-9f6702b5efa6" />
+
